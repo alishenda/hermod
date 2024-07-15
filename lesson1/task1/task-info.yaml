@@ -1,0 +1,16 @@
+type: edu
+files:
+  - name: src/Task.kt
+    visible: true
+    placeholders:
+      - offset: 460
+        length: 312
+        placeholder_text: TODO() Cette méthode doit lire un input console de l'utlisateur
+          et utiliser la méthode run pour l'afficher en retour.
+      - offset: 808
+        length: 124
+        placeholder_text: TODO() Cette méthode doit lire un fichier source sur disque
+          et utiliser la méthode run pour afficher son contenu dans la console.
+  - name: test/Tests.kt
+    visible: false
+    propagatable: false

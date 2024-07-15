@@ -1,0 +1,7 @@
+type: marketplace
+title: Hermod Course
+language: French
+summary: Hermod language based on kotlin and poo paradigm
+programming_language: Kotlin
+content:
+  - lesson1
