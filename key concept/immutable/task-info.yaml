@@ -1,0 +1,15 @@
+type: edu
+files:
+  - name: src/Task.kt
+    visible: true
+    placeholders:
+      - offset: 0
+        length: 19
+        placeholder_text: "TODO(\"Créer une variable immutable nommée `name` qui prend\
+      \ en valeur litérale : Kotlin\")"
+      - offset: 91
+        length: 20
+        placeholder_text: TODO("Renvoyer une liste qui multiplie par deux tous les éléments
+          de la liste en entrée.")
+  - name: test/Tests.kt
+    visible: false
