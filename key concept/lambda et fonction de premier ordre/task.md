@@ -11,6 +11,6 @@ d'ordre supérieur très utilisées qui traitent des collections de manière eff
 
 L'utilisation combinée de ces deux concepts permet aux développeurs de créer des solutions élégantes pour 
 des problèmes complexes en écrivant moins de code, tout en augmentant la lisibilité et la maintenabilité. 
-Kotlin, avec son soutien robuste pour la programmation fonctionnelle, offre une syntaxe riche et intuitive pour 
+Kotlin, avec son utilisation du paradigme fonctionnelle, offre une syntaxe riche et intuitive pour 
 exploiter pleinement les expressions lambda et les fonctions d'ordre supérieur, rendant le code non seulement 
-plus expressif mais également plus efficace
+plus expressif mais également plus efficace.
